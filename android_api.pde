@@ -515,8 +515,8 @@ public short[] justLoadAudioFile (String filename) {
         }
       }
 
-      //return sample;
-      return (short)y3;      
+      return sample;
+      //return (short)y3;      
     }
   }
 
